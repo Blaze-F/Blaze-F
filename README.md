@@ -1,6 +1,5 @@
-### I hope to be a DevOps someday. But nowdays i concentrated in backend.
-
-- 🔭 I’m searching a job
+- ### 🔭 I’m searching a job
+- ### 🌠 I hope to be a DevOps someday. But nowdays i concentrated in backend.
 
 ### Stack
 ---
