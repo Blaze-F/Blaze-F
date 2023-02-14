@@ -9,7 +9,7 @@
 
 #### Database
 
-### Intrested in
+### Intrested in nowdays
 ---
 - make CI/CD pipeline
 - avoid, improve the slow query
