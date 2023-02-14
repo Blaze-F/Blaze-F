@@ -1,15 +1,19 @@
-### Hi there 👋
+### I hope to be a DevOps someday. But nowdays i concentrated in backend.
 
+- 🔭 I’m searching a job
 
-Here are some ideas to get you started:
+### Stack
+---
+#### Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Framework
+
+#### Database
+
+### Intrested in
+---
+- make CI/CD pipeline
+- improve slow Query
+
 
 ![JunH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaze-F&show_icons=true&theme=apprentice)
