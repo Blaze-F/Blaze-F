@@ -12,7 +12,7 @@
 ### Intrested in
 ---
 - make CI/CD pipeline
-- improve slow Query
+- avoid, improve the slow query
 
 
 ![JunH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaze-F&show_icons=true&theme=apprentice)
