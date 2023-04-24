@@ -1,13 +1,15 @@
 - ### 🔭 I’m searching a job
 - ### 🌠 I hope to be a DevOps someday. But nowdays i concentrated in backend.
 ---
-### Stack
+### Stacak
 
 #### Language
-
+Python, Java
 #### Framework
-
+Spring boot, Django, DRF
 #### Database
+Mysql, Oracle, Redis
+
 ---
 ### Intrested in nowdays
 - make CI/CD pipeline
